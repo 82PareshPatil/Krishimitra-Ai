@@ -58,13 +58,13 @@ function checklen()
       </button>
        <div class="collapse navbar-collapse" id="navbarResponsive">
        <ul class="navbar-nav ml-auto">
-        <!--   <li class="nav-item" style="margin-right: 40px;">
-            <a class="nav-link js-scroll-trigger" href="index.php" style="color: white;font-family: 'IBM Plex Sans', sans-serif;"><h6>HOME</h6></a>
+           <li class="nav-item" style="margin-right: 40px;">
+            <a class="nav-link js-scroll-trigger" href="https://82pareshpatil.github.io/Krishimitra-Ai/Farmer/index.html" style="color: white;font-family: 'IBM Plex Sans', sans-serif;"><h6>HOME</h6></a>
           </li>
   
           <li class="nav-item" style="margin-right: 40px;">
-            <a class="nav-link js-scroll-trigger" href="services.html" style="color: white;font-family: 'IBM Plex Sans', sans-serif;"><h6>ABOUT US</h6></a>
-          </li> -->
+            <a class="nav-link js-scroll-trigger" href="http://localhost:8080/php%20codes/Krishimitra%20Ai/Agriculture%20Equpment%20Rental/" style="color: white;font-family: 'IBM Plex Sans', sans-serif;"><h6>Rental</h6></a>
+          </li> 
 
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="contact.html" style="color: white;font-family: 'IBM Plex Sans', sans-serif;"><h6>CONTACT</h6></a>
