@@ -127,7 +127,7 @@ KrishiMitra AI bridges this gap with:
 ## 📞 Contact
 
 **Developer:** Paresh Patil  
-📧 Email: your.email@example.com  
+📧 Email: paresh2004patil@gmail.com
 🔗 GitHub: [@82PareshPatil](https://github.com/82PareshPatil)
 
 ---
